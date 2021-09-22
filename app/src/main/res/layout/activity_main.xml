@@ -10,7 +10,7 @@
         android:id="@+id/button"
         android:layout_width="184dp"
         android:layout_height="62dp"
-        android:text="Next Screen"
+        android:text="@string/btn_txt"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
